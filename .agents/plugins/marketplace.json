@@ -1,0 +1,20 @@
+{
+  "name": "f2re-better-art-direction",
+  "interface": {
+    "displayName": "f2re · Better Art Direction"
+  },
+  "plugins": [
+    {
+      "name": "better-art-direction",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

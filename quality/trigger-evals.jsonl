@@ -1,0 +1,14 @@
+{"prompt":"Проведи арт-дирекшн существующей панели метеоролога: она выглядит как типовой ИИ-шаблон.","should_trigger":true,"mode":"audit"}
+{"prompt":"$better-art-direction redesign the settings flow without changing routes or business logic.","should_trigger":true,"mode":"redesign"}
+{"prompt":"Нужно определить визуальную концепцию для нового интерфейса лабораторной системы до начала верстки.","should_trigger":true,"mode":"direction"}
+{"prompt":"Сделай интерфейс менее шаблонным и привяжи композицию к реальным данным продукта.","should_trigger":true,"mode":"polish"}
+{"prompt":"Изучи этот скриншот, извлеки композиционные принципы, но не копируй макет.","should_trigger":true,"mode":"study"}
+{"prompt":"Audit the entire product UI for interchangeable AI-generated design patterns and product-mode mismatch.","should_trigger":true,"mode":"audit"}
+{"prompt":"Переработай административную систему: сейчас она выглядит как лендинг с огромным hero-блоком.","should_trigger":true,"mode":"redesign"}
+{"prompt":"Сформируй ART_DIRECTION.md для нескольких экранов этого продукта на основе репозитория.","should_trigger":true,"mode":"direction"}
+{"prompt":"Исправь только контраст текста на этой кнопке.","should_trigger":false,"owner":"better-colors"}
+{"prompt":"Добавь aria-label и управление с клавиатуры в выпадающее меню.","should_trigger":false,"owner":"better-accessibility"}
+{"prompt":"Поправь переносы заголовка и межстрочный интервал, не меняя общий дизайн.","should_trigger":false,"owner":"better-typography"}
+{"prompt":"Перепиши сообщение об ошибке и подпись кнопки сохранения.","should_trigger":false,"owner":"better-writing"}
+{"prompt":"Уменьши отступ между двумя полями формы с 24 до 16 пикселей.","should_trigger":false,"owner":"better-layout"}
+{"prompt":"Добавь лёгкую анимацию активного состояния и выровняй иконку.","should_trigger":false,"owner":"better-ui"}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Better Art Direction"
+  short_description: "Distinctive UI direction and anti-template audit"
+  default_prompt: "Use $better-art-direction to define or audit a product-specific interface direction and verify it in the rendered product."
+policy:
+  allow_implicit_invocation: true

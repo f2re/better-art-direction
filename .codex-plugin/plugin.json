@@ -1,0 +1,37 @@
+{
+  "name": "better-art-direction",
+  "version": "1.0.0",
+  "description": "Product-specific art direction, anti-template interface audits, redesign guidance, and rendered UI verification for Codex.",
+  "author": {
+    "name": "f2re",
+    "url": "https://github.com/f2re"
+  },
+  "homepage": "https://github.com/f2re/better-art-direction#readme",
+  "repository": "https://github.com/f2re/better-art-direction",
+  "license": "MIT",
+  "keywords": [
+    "art-direction",
+    "ui",
+    "ux",
+    "frontend",
+    "design-review",
+    "accessibility",
+    "codex"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Better Art Direction",
+    "shortDescription": "Distinctive product UI direction and anti-template audit",
+    "longDescription": "Define, audit, redesign, and verify interface art direction without falling back to interchangeable AI-generated layouts.",
+    "developerName": "f2re",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/f2re/better-art-direction",
+    "defaultPrompt": [
+      "Use Better Art Direction to audit this interface and identify the product-specific changes that matter most.",
+      "Use Better Art Direction to define a durable art-direction contract before changing this frontend.",
+      "Use Better Art Direction to redesign this interface without replacing its product behavior or information architecture."
+    ],
+    "brandColor": "#155EEF"
+  }
+}
