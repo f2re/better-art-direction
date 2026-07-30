@@ -1,5 +1,6 @@
 node_modules/
 .art-direction-audit/
 coverage/
-.DS_Store
 *.log
+.DS_Store
+Thumbs.db
