@@ -1,0 +1,5 @@
+node_modules/
+.art-direction-audit/
+coverage/
+.DS_Store
+*.log
